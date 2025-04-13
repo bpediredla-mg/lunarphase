@@ -1,0 +1,10 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #0d1b2a;
+  color: white;
+}
+input {
+  margin: 10px;
+}
